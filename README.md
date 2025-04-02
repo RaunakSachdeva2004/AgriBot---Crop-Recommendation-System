@@ -3,7 +3,7 @@ AgriBot is an AI chatbot that assists farmers with crop recommendations 🌾 and
 
 # AgriBot - AI-Powered Agricultural Chatbot
 
-🌱 ** AgriBot** is an AI-powered chatbot designed to assist farmers by recommending crops 🌾 and diagnosing plant diseases 🌿 using Support Vector Machine (SVM) models. It analyzes soil, climate, and environmental factors 🌍 to provide accurate, data-driven insights 📊 for better farming decisions. With an intuitive chatbot interface 💬, AgriBot simplifies agricultural guidance, making it accessible to all farmers. 🚜
+🌱 **AgriBot** is an AI-powered chatbot designed to assist farmers by recommending crops 🌾 and diagnosing plant diseases 🌿 using Support Vector Machine (SVM) models. It analyzes soil, climate, and environmental factors 🌍 to provide accurate, data-driven insights 📊 for better farming decisions. With an intuitive chatbot interface 💬, AgriBot simplifies agricultural guidance, making it accessible to all farmers. 🚜
 
 ## 🚀 Features
 - **Crop Recommendation**: Suggests optimal crops based on soil, climate, and other conditions.
